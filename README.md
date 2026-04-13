@@ -38,5 +38,5 @@
 
 ### 🌠 Future Vision: IoT Agriculture & Space
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid3N4ZzR6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxcaNnU94A/giphy.gif" width="400" />
+  <img src="animation_robot.gif" width="600" />
 </p>
