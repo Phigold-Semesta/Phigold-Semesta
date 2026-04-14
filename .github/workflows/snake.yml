@@ -31,8 +31,17 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#059669&color_dots=#ebedf0,#a3e635,#34d399,#059669,#064e3b
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFD700&color_dots=#161b22,#064e3b,#059669,#10b981,#34d399
           
+      # Generates a 3D Contribution Graph (Cidade Style)
+      - name: generate github-profile-3d-contribution.svg
+        uses: yoshi389111/github-profile-3d-contribution@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Kita pakai gaya 'cidade' (kota) agar terlihat seperti bangunan di planet lain
+          theme: cidade
+          output_dir: dist
+          
       # Push content of <build_dir> to the output branch
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push github-profile-3d-contribution.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
