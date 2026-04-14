@@ -34,7 +34,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,html,css,js,tailwind,bootstrap,linux,nginx,docker" alt="Web & Ops" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,laragon,vercel,opencv,matlab,mongodb,arduino,raspberrypi,github" alt="AI & IoT" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,apache,vercel,opencv,matlab,mongodb,arduino,raspberrypi,github" alt="AI & IoT" />
 </div>
 
 ---
