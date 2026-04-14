@@ -29,7 +29,17 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,html,css,js,tailwind,bootstrap,linux,nginx,docker" alt="Web & Ops" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,opencv,arduino,raspberrypi,github,git,figma" alt="AI & IoT" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,matlab,opencv,arduino,raspberrypi,github,git" alt="AI & IoT" />
+</div>
+
+---
+
+### 🧠 Inspiration & Foundations
+<div align="left">
+  <img src="https://img.shields.io/badge/Inspiration-Steve_Jobs-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Physics-Einstein-E10098?style=for-the-badge&logo=discovery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-Alan_Turing-0052CC?style=for-the-badge&logo=blueprint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mathematics-$$E=mc^2$$-059669?style=for-the-badge&logo=googlemath&logoColor=white" />
 </div>
 
 ---
