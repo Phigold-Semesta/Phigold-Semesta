@@ -17,6 +17,11 @@
 
 ---
 
+### 🌌 Philosophy of "Phigold-Semesta"
+> **Phigold** diambil dari konstanta matematika **Golden Ratio ($\phi$)**. Sesuatu yang seringkali tidak terlihat secara kasat mata, namun menjadi standar estetika dan harmoni yang sempurna di alam semesta. Seperti itulah peran seorang programmer; bekerja di balik layar, mungkin tak terlihat jasanya, namun setiap baris kode yang ditulis memberikan dampak nyata yang luas. **Phigold-Semesta** adalah manifestasi dari pengabdian kode untuk manfaat yang tak terbatas bagi seluruh alam.
+
+---
+
 ### 👤 About Me
 - 🔭 **Current Project:** Building **SOWAN v2** (Digital Guest Book LPSE Karawang) with Laravel 12.
 - 🌱 **Learning:** Deep Learning & Computer Vision for Agricultural Automation.
@@ -29,7 +34,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,html,css,js,tailwind,bootstrap,linux,nginx,docker" alt="Web & Ops" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,matlab,opencv,arduino,raspberrypi,github,git" alt="AI & IoT" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,opencv,matlab,mongodb,arduino,raspberrypi,github" alt="AI & IoT" />
 </div>
 
 ---
@@ -39,7 +44,8 @@
   <img src="https://img.shields.io/badge/Inspiration-Steve_Jobs-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Physics-Einstein-E10098?style=for-the-badge&logo=discovery&logoColor=white" />
   <img src="https://img.shields.io/badge/Logic-Alan_Turing-0052CC?style=for-the-badge&logo=blueprint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mathematics-$$E=mc^2$$-059669?style=for-the-badge&logo=googlemath&logoColor=white" />
+  <img src="https://img.shields.io/badge/Energy-E%20%3D%20mc%5E2-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ratio-%CF%86%20%3D%201.618-FFD700?style=for-the-badge" />
 </div>
 
 ---
