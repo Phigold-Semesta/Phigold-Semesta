@@ -25,13 +25,11 @@
 
 ---
 
-### 🛠 Tech Stack (Emerald & AI Specialized)
+### 🛠 Tech Stack (Full-Horizon Style)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,github,git,figma" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,html,css,js,tailwind,bootstrap,linux,nginx,docker" alt="Web & Ops" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy" alt="AI & Data Science" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,opencv,arduino,raspberrypi,github,git,figma" alt="AI & IoT" />
 </div>
 
 ---
